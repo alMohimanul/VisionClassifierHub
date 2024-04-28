@@ -8,6 +8,6 @@ This repository hosts the code implementation of  hybrid models designed to clas
 * **Backend:**  FastAPI - A modern, fast (high-performance) web framework for building APIs with Python 3.12.0. FastAPI enables efficient communication between the frontend and the model serving backend.
 
 ## Images 
-![OpenAI Logo](VisionClassifierHub/1_1.png"page_1")
+![OpenAI Logo](1_1.png"page_1")
 
 
