@@ -10,7 +10,7 @@ If you're passionate about computer vision and solving practical challenges, you
   
 * **Backend:**  FastAPI - A modern, fast (high-performance) web framework for building APIs with Python 3.12.0. FastAPI enables efficient communication between the frontend and the model serving backend.
 
-# DESIGN IMAGES 
+# DESIGN  
 ## IMAGE 1
 ![OpenAI Logo](1_1.png)
 
